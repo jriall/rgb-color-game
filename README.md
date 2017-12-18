@@ -1,6 +1,6 @@
 # RGB Colour Picker
 
-http://jamesriall.co.uk/rgb-color-game/
+https://jamesriall.co.uk/rgb-color-game/
 
 ## The Project
 
@@ -8,3 +8,6 @@ A game to test a users knowledge of colour codes and improve their colour select
 
 Coded from scratch based on a challenge project provided in Colt Steele's Web Developer Bootcamp course - https://www.udemy.com/the-web-developer-bootcamp/
 
+![ScreenShot](http://res.cloudinary.com/jamesriall/image/upload/v1513605311/color-game-image_rmhd2k.png)
+
+## The Logic
